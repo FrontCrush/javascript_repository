@@ -28,7 +28,8 @@ shuffle = function(o){ //v1.0
 
 <h2>Articles</h2>
 
-<h3><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a> © Copyright 2014 - Carl Danley</h3>
+<h3><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a></h3>
+<p>© Copyright 2014 - Carl Danley</p>
 <ul>
   <li><a href="http://carldanley.com/js-module-pattern/" target="_blank">The Module Pattern</a></li>
   <li><a href="http://carldanley.com/js-revealing-module-pattern/" target="_blank">The Revealing Module Pattern</a></li>
@@ -41,3 +42,5 @@ shuffle = function(o){ //v1.0
 </ul>
 
 
+<h3><a href="http://kangax.github.io/nfe/" target="_blank">Named function expressions demystified</a></h3>
+<p><a href="http://perfectionkills.com/" target="_blank">Juriy "kangax" Zaytsev</a></p>
