@@ -25,10 +25,19 @@ shuffle = function(o){ //v1.0
 
 
 
-http://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
-<!--[if lt IE 7]> <html class="ie ie6 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>    <html class="ie ie7 lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>    <html class="ie ie8 lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class=""> <!--<![endif]-->
+
+<h2>Articles</h2>
+
+<h3><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a> © Copyright 2014 - Carl Danley</h3>
+<ul>
+  <li><a href="http://carldanley.com/js-module-pattern/" target="_blank">The Module Pattern</a></li>
+  <li><a href="http://carldanley.com/js-revealing-module-pattern/" target="_blank">The Revealing Module Pattern</a></li>
+  <li><a href="http://carldanley.com/js-singleton-pattern/" target="_blank">The Singleton Patter</a></li>
+  <li><a href="http://carldanley.com/js-observer-pattern/" target="_blank">The Observer Patter</a></li>
+  <li><a href="http://carldanley.com/js-mediator-pattern/" target="_blank">The Mediator Patter</a></li>
+  <li><a href="http://carldanley.com/js-prototype-pattern/" target="_blank">The Prototype Patter</a></li>
+  <li><a href="http://carldanley.com/js-facade-pattern/" target="_blank">The Facade Patter</a></li>
+  <li><a href="http://carldanley.com/js-factory-pattern/" target="_blank">The Factory Pattern</a></li>
+</ul>
 
 
