@@ -38,14 +38,8 @@ http://dzone.com/snippets/array-shuffle-javascript
     </ul>
   </li>
 
-</ul>
-
-
-<h2>Articles</h2>
-
-<ul>
   <li>
-    <h3><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a></h3>
+    <h5><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a></h5>
     © Copyright 2014 - Carl Danley
     <ul>
       <li><a href="http://carldanley.com/js-module-pattern/" target="_blank">The Module Pattern</a></li>
@@ -59,6 +53,12 @@ http://dzone.com/snippets/array-shuffle-javascript
     </ul>
   </li>
 
+</ul>
+
+
+<h2>Articles</h2>
+
+<ul>
   <li>
     <ul>
       <li><a href="http://stackoverflow.com/a/4484449/1021122" target="_blank">Underscore prefix for property and method names in JavaScript</a></li>
