@@ -39,8 +39,8 @@ http://dzone.com/snippets/array-shuffle-javascript
   </li>
 
   <li>
-    <h5><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a></h5>
-    © Copyright 2014 - Carl Danley
+    <h5><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a> © Copyright 2014 - Carl Danley</h5>
+    
     <ul>
       <li><a href="http://carldanley.com/js-module-pattern/" target="_blank">The Module Pattern</a></li>
       <li><a href="http://carldanley.com/js-revealing-module-pattern/" target="_blank">The Revealing Module Pattern</a></li>
