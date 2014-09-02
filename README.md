@@ -20,10 +20,10 @@ http://dzone.com/snippets/array-shuffle-javascript
 
 <h2>Tutorials</h2>
 <ul>
-  <li>
+  <li>developer.mozilla.org
     <ul>
-      <li><a title="The push() method adds one or more elements to the end of an array and returns the new length of the array." href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"><code>push</code></a> / <a title="The pop() method removes the last element from an array and returns that element." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"><code>pop</code></a> - add/remove elements from the end of the array;</li>
-      <li><a title="The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array." href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"><code>unshift</code></a> / <a title="The shift() method removes the first element from an array and returns that element. This method changes the length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"><code>shift</code></a> - add/remove elements from the beginning of the array;</li>
+      <li><a title="The push() method adds one or more elements to the end of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"><code>push</code></a> / <a title="The pop() method removes the last element from an array and returns that element." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"><code>pop</code></a> - add/remove elements from the end of the array;</li>
+      <li><a title="The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"><code>unshift</code></a> / <a title="The shift() method removes the first element from an array and returns that element. This method changes the length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"><code>shift</code></a> - add/remove elements from the beginning of the array;</li>
       <li><a title="The splice() method changes the content of an array, adding new elements while removing old elements." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"><code>splice</code></a> - add/remove elements from the specified location of the array.</li>
       <li><a title="The concat() method combines the text of two or more strings and returns a new string." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat"><code>String.prototype.concat</code></a></li>
     </ul>
@@ -80,7 +80,7 @@ http://dzone.com/snippets/array-shuffle-javascript
 
 <h2>JavaScript Conferences</h2>
 <ul>
-  <li><a href="http://www.infoq.com/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk"></a></li>
+  <li><a href="http://www.infoq.com/javascript/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk">InfoQ.com</a></li>
 </ul>
 
 
@@ -96,6 +96,7 @@ http://dzone.com/snippets/array-shuffle-javascript
 <dt>Function-level scope</dt>
 <dd>JavaScript has function-level scope. This is radically different from the C family. Blocks, such as if statements, do not create a new scope. Only functions create a new scope.
 
+<p>
 <code>
 function test() {
 	foo(); // TypeError "foo is not a function"
@@ -108,7 +109,7 @@ function test() {
 	}
 }
 test();
-</code>
+</code></p>
 
 </dd>
 </dl>
