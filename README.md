@@ -22,11 +22,20 @@ http://dzone.com/snippets/array-shuffle-javascript
 <ul>
   <li>developer.mozilla.org
     <ul>
-      <li><a target="_blank" title="The push() method adds one or more elements to the end of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"><code>push</code></a> / <a target="_blank" title="The pop() method removes the last element from an array and returns that element." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"><code>pop</code></a> - add/remove elements from the end of the array;</li>
-      <li><a target="_blank" title="The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"><code>unshift</code></a> / <a target="_blank" title="The shift() method removes the first element from an array and returns that element. This method changes the length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"><code>shift</code></a> - add/remove elements from the beginning of the array;</li>
-      <li><a target="_blank" title="The splice() method changes the content of an array, adding new elements while removing old elements." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"><code>splice</code></a> - add/remove elements from the specified location of the array.</li>
-      <li><a target="_blank" title="The concat() method combines the text of two or more strings and returns a new string." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat"><code>String.prototype.concat</code></a></li>
-      <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter">filter</a> The filter() method creates a new array with all elements that pass the test implemented by the provided function.</li>
+      <li>Arrays
+        <ul>
+          <li><a target="_blank" title="The push() method adds one or more elements to the end of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"><code>push</code></a> / <a target="_blank" title="The pop() method removes the last element from an array and returns that element." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"><code>pop</code></a> - add/remove elements from the end of the array;</li>
+          <li><a target="_blank" title="The unshift() method adds one or more elements to the beginning of an array and returns the new length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"><code>unshift</code></a> / <a target="_blank" title="The shift() method removes the first element from an array and returns that element. This method changes the length of the array." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"><code>shift</code></a> - add/remove elements from the beginning of the array;</li>
+          <li><a target="_blank" title="The splice() method changes the content of an array, adding new elements while removing old elements." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"><code>splice</code></a> - add/remove elements from the specified location of the array.</li>
+          <li><a target="_blank" title="The concat() method combines the text of two or more strings and returns a new string." href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat"><code>String.prototype.concat</code></a></li>
+          <li><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter">filter</a> The filter() method creates a new array with all elements that pass the test implemented by the provided function.</li>
+        </ul>
+      </li>
+      <li>Strings
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt" target="_blank">charCodeAt</a>The charCodeAt() method returns the numeric Unicode value of the character at the given index (except for unicode codepoints > 0x10000).</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
