@@ -92,13 +92,36 @@ http://dzone.com/snippets/array-shuffle-javascript
 
 <h2>Glossary</h2>
 <dl>
+<dt>Event Handling</dt>
+<dd>
+<ol>
+  <li>
+
+  </li>
+</ol>
+</dd>
 <dt>Compound Event Handlers</dt>
 <dd>
 <ol>
-  <li>Accept combinations of user actions and respond using more than one function.</li>
-  <li>Most of jQuery's event-handling methods correspond directly to native DOM events.
-  A handful, however, are custom handlers added for convenience and cross-browser optimization. One of these, the .ready() method, we have discussed in detail already. Others, including .mouseenter(), .mouseleave(), .focusin(), and .focusout(), normalize proprietary Internet Explorer events of the same name. Two custom jQuery handlers, .toggle() and .hover(), are referred to as compound event handlers because they intercept combinations of user actions,
-  and respond to them using more than one function.</li>
+  <li>
+    Accept combinations of user actions and respond using more than one function.
+  </li>
+  <li>
+    Most of jQuery's event-handling methods correspond directly to native DOM events.
+    A handful, however, are custom handlers added for convenience and cross-browser optimization. One of these, the .ready() method, we have discussed in detail already. Others, including .mouseenter(), .mouseleave(), .focusin(), and .focusout(), normalize proprietary Internet Explorer events of the same name. Two custom jQuery handlers, .toggle() and .hover(), are referred to as compound event handlers because they intercept combinations of user actions,
+    and respond to them using more than one function.
+    <br>
+    <a target="_blank" href="https://www.safaribooksonline.com/library/view/learning-jquery-third/9781849516549/ch03s03.html">Reference</a>
+  </li>
+  <li>
+    jQuery add several custom handlers just for convenience.
+    <br>
+    <b>toggle():</b> bind two or more handlers to selected elements, to be executed on alternate clicks
+    <b>hover():</b> bind one or two handlers to the selected elements, to be executed when the mouse cursor enters and leaves the elements
+    <br>
+    <a target="_blank" href="https://bubblogging.wordpress.com/2011/03/14/jquery-event-2/">Reference</a>
+
+  </li>
 </ol>
 </dd>
 <dt>AssignmentExpression</dt>
