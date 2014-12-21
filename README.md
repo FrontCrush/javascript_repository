@@ -1,7 +1,7 @@
 javascript_repository
 =====================
 
-A collection of multiple and different functions. 
+A collection of multiple and different functions.
 
 
 
@@ -50,7 +50,7 @@ http://dzone.com/snippets/array-shuffle-javascript
 
   <li>
     <h5><a href="https://carldanley.com/javascript-design-patterns/" target="_blank">JavaScript Design Patterns</a> © Copyright 2014 - Carl Danley</h5>
-    
+
     <ul>
       <li><a href="http://carldanley.com/js-module-pattern/" target="_blank">The Module Pattern</a></li>
       <li><a href="http://carldanley.com/js-revealing-module-pattern/" target="_blank">The Revealing Module Pattern</a></li>
@@ -92,6 +92,15 @@ http://dzone.com/snippets/array-shuffle-javascript
 
 <h2>Glossary</h2>
 <dl>
+<dt>Compound Event Handlers</dt>
+<dd>
+<ol>
+  <li>Accept combinations of user actions and respond using more than one function.</li>
+  <li>Most of jQuery's event-handling methods correspond directly to native DOM events.
+  A handful, however, are custom handlers added for convenience and cross-browser optimization. One of these, the .ready() method, we have discussed in detail already. Others, including .mouseenter(), .mouseleave(), .focusin(), and .focusout(), normalize proprietary Internet Explorer events of the same name. Two custom jQuery handlers, .toggle() and .hover(), are referred to as compound event handlers because they intercept combinations of user actions,
+  and respond to them using more than one function.</li>
+</ol>
+</dd>
 <dt>AssignmentExpression</dt>
 <dd></dd>
 <dt>Implied Globals</dt>
